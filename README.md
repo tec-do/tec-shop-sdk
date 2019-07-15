@@ -1,0 +1,1 @@
+# tec-shop-sdk
