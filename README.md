@@ -1,0 +1,1 @@
+# tecshop-android-sdk
